@@ -1,0 +1,30 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "This is a npm for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishathM/npm-test.git"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "testing"
+  ],
+  "author": "Nishath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishathM/npm-test/issues"
+  },
+  "homepage": "https://github.com/NishathM/npm-test#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
